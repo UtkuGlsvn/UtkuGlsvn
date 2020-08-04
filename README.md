@@ -26,6 +26,21 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkuglsvn/)
 
+## ⚡ Fun fact
+
+I love startup culture :)
+
+Even though I have a few sinking or not holding ideas, I will contribute to the startup culture without giving up, for a better world.
+
+### 🔭 start-up companies that I actively support
+
+BenzinLitre Android Developer, [benzinlitre get play store :)].
+
+<code><img height="75" src="https://www.benzinlitre.com/public/site/tema2/image/logo.svg"></code>
+
+[benzinlitre get play store :)]: https://play.google.com/store/apps/details?id=com.benzinlitre.app&hl=en
+
+
 <!--
 **UtkuGlsvn/UtkuGlsvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
