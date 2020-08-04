@@ -9,7 +9,7 @@
 </p>
 
 
-## 📚 Learning & interest
+## 📚 Learning & interested
 
 <code><img height="75" src="https://image.flaticon.com/icons/svg/882/882710.svg"></code>
 <code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
