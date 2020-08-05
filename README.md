@@ -1,7 +1,7 @@
 ### Heyy Lady and Gentlemen 👋
 
 
-## 📌 GitHub Stats and Top Languages
+## 📌 GitHub Stats And Top Languages
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=UtkuGlsvn&show_icons=true&count_private=true&hide=contribs,issues" alt="UtkuGlsvn's github stats" />
@@ -9,7 +9,7 @@
 </p>
 
 
-## 📚 Learning & interested
+## 📚 Learning & Interested
 
 <code><img height="75" src="https://image.flaticon.com/icons/svg/882/882710.svg"></code>
 <code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
@@ -18,21 +18,21 @@
 <code><img height="75" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
 
 
-## 📚 My Medium account
+## 📚 My Medium Account
 [@utkuglsvn ](https://medium.com/@utkuglsvn)
 
-## 📫 How to reach me
+## 📫 How to Reach Me
 
 
 [![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkuglsvn/)
 
-## ⚡ Fun fact
+## ⚡ Fun Fact
 
 I love startup culture :)
 
 Even though I have a few sinking or not holding ideas, I will contribute to the startup culture without giving up, for a better world.
 
-### 🔭 start-up companies that I actively support
+### 🔭 Start-up companies that I actively support
 
 BenzinLitre Android Developer, [benzinlitre get play store :)].
 
