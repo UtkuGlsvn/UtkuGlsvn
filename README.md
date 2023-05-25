@@ -9,15 +9,6 @@
 </p>
 
 
-## 📚 Learning & Interested
-
-<code><img height="75" src="https://image.flaticon.com/icons/svg/882/882710.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/887/887813.svg"></code>
-<code><img height="75" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
-
-
 ## 📚 My Medium Account
 [@utkuglsvn ](https://medium.com/@utkuglsvn)
 
@@ -34,9 +25,8 @@ Even though I have a few sinking or not holding ideas, I will contribute to the 
 
 ### 🔭 Start-up companies that I actively support
 
-BenzinLitre Android Developer, [benzinlitre get play store :)].
+Benzinlitre - Astopia - İyiyaşa - Lifebox
 
-<code><img height="75" src="https://www.benzinlitre.com/public/site/tema2/image/logo.svg"></code>
 
 [benzinlitre get play store :)]: https://play.google.com/store/apps/details?id=com.benzinlitre.app&hl=en
 
