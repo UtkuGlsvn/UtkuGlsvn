@@ -9,6 +9,9 @@
 </p>
 
 
+## 🌐 FoxyCodeStudios
+https://foxycodestudios.com
+
 ## 📚 My Medium Account
 [@utkuglsvn ](https://medium.com/@utkuglsvn)
 
@@ -23,7 +26,7 @@ https://utkuglsvn.github.io
 
 ## ⚡ Fun Fact
 
-I love startup culture :)
+I love startup culture :) Co-Founder FoxyCodeStudious
 
 Even though I have a few sinking or not holding ideas, I will contribute to the startup culture without giving up, for a better world.
 
