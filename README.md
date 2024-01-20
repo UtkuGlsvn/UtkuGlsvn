@@ -1,4 +1,4 @@
-### Heyy Lady and Gentlemen 👋
+ma### Heyy Lady and Gentlemen 👋
 
 
 ## 📌 GitHub Stats And Top Languages
@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->😔🤔 Türkçe ben Türkçe ben 
