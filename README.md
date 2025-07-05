@@ -9,18 +9,13 @@
 </p>
 
 
-## 🌐 FoxyCodeStudios
-https://foxycodestudios.com
+## 🌐 My Github io
+https://utkuglsvn.github.io
 
 ## 📚 My Medium Account
 [@utkuglsvn ](https://medium.com/@utkuglsvn)
 
-
-## 🌐 My Github io
-https://utkuglsvn.github.io
-
 ## 📫 How to Reach Me
-
 
 [![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkuglsvn/)
 
